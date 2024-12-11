@@ -1,0 +1,6 @@
+https://reference.medscape.com/drug-interactionchecker
+
+https://reference.medscape.com/druginteraction.do?action=getMultiInteraction&ids=343311,343311,343392
+
+
+reference medscape - druginteraction
